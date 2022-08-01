@@ -1,0 +1,130 @@
+{
+    "menu": [
+        {
+            "nama": "Spicy Shrimp Ramen",
+            "deskripsi": "Ramen kuah pedas rasa udang dengan toping udang, telur, dan tofu",
+            "harga": 28000,
+            "kategori": "ramen",
+            "gambar": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+        },
+        {
+            "nama": "Curry Ramen",
+            "deskripsi": "Ramen kuah kari dengan toping telur dan ayam cincang",
+            "harga": 28000,
+            "kategori": "ramen",
+            "gambar": "https://sharedappetite.com/wp-content/uploads/2018/02/spicy-lamb-coconut-curry-ramen-5-copy.jpg"
+        },
+        {
+            "nama": "Mushroom and Shrimp Ramen",
+            "deskripsi": "Ramen kuah kaldu jamur dengan toping jamur dan udang",
+            "harga": 35000,
+            "kategori": "ramen",
+            "gambar": "https://static.onecms.io/wp-content/uploads/sites/35/2019/11/japanese-mushroom-shrimp-ramen.jpg"
+        },
+        {
+            "nama": "Katsu Ramen",
+            "deskripsi": "Ramen dengan kuah cream dan toping katsu",
+            "harga": 30000,
+            "kategori": "ramen",
+            "gambar": "https://assets.website-files.com/5e570a5c41472a8dba58ae89/5eb1ffdbc7f61e8090f0699d_Hotfood_30%20Chicken%20Katsu%20Donkatsu%20Ramen.jpg"
+        },
+        {
+            "nama": "Special Ramen",
+            "deskripsi": "Ramen kuah dengan toping daging sapi, telur, jamur dan sayuran",
+            "harga": 37000,
+            "kategori": "ramen",
+            "gambar": "https://images.unsplash.com/photo-1602881917760-7379db593981?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+        },
+        {
+            "nama": "Nasi Katsu Kari",
+            "deskripsi": "Nasi dengan Katsu yang disiram saus kari pedas",
+            "harga": 33000,
+            "kategori": "nasi",
+            "gambar": "https://cdn1-production-images-kly.akamaized.net/lkzoNnChIkeP2xHlhsAkiBrDjTY=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3241794/original/036599500_1600409975-WhatsApp_Image_2020-09-18_at_1.06.48_PM.jpeg"
+        },
+        {
+            "nama": "Nasi Katsu",
+            "deskripsi": "Nasi dengan toping katsu",
+            "harga": 30000,
+            "kategori": "nasi",
+            "gambar": "https://awsimages.detik.net.id/community/media/visual/2018/04/03/a7be4bc6-921f-4880-884d-f94827a9c1e3.jpeg?a=1"
+        },
+        {
+            "nama": "Nasi Daging Cincang",
+            "deskripsi": "Nasi dengan toping daging cincang",
+            "harga": 35000,
+            "kategori": "nasi",
+            "gambar": "https://production-media.gousto.co.uk/cms/mood-image/483---Korean-Beef-Bulgogi.jpg"
+        },
+        {
+            "nama": "Nasi Tempura",
+            "deskripsi": "Nasi dengan tempura yang krispi",
+            "harga": 30000,
+            "kategori": "nasi",
+            "gambar": "https://i.pinimg.com/originals/d8/f4/01/d8f40192965053c4488cea974007f3a6.jpg"
+        },
+        {
+            "nama": "Sushi Ori",
+            "deskripsi": "Sushi dengan isian sayur-sayuran",
+            "harga": 27000,
+            "kategori": "sushi",
+            "gambar": "https://www.thespruceeats.com/thmb/AH8JQR2GnNk874DVxH1aMk-uU58=/2848x2848/smart/filters:no_upscale()/kimbap-korean-sushi-rolls-2118795-Hero-5b7dbdd346e0fb00250718b8.jpg"
+        },
+        {
+            "nama": "California Rolls Sushi",
+            "deskripsi": "Sushi isi alpukat, timun, dan salmmon segar",
+            "harga": 29000,
+            "kategori": "sushi",
+            "gambar": "https://img.kurio.network/kaGv4SR9WS7MsmtLvCV3bqUfiCI=/400x400/filters:quality(80):format(jpeg)/https://kurio-img.kurioapps.com/20/07/26/aba0ac4f-7914-4534-9346-33909a4a3818.jpg"
+        },
+        {
+            "nama": "Salmon Sushi",
+            "deskripsi": "Sushi dengan potongan salmon diatasnya",
+            "harga": 35000,
+            "kategori": "sushi",
+            "gambar": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/7/4/8992302/8992302_7a0ef21f-8302-4c6f-b09e-880e09e3839a_500_500.jpg"
+        },
+        {
+            "nama": "Crispy Sushi",
+            "deskripsi": "Sushi dengan lapisan luar krispi dan isi yang krispi juga",
+            "harga": 33000,
+            "kategori": "sushi",
+            "gambar": "https://images.freshop.com/00669556030307/13359dc47b3c1462d502c8819ca4478a_large.png"
+        },
+        {
+            "nama": "Strawberry Squash",
+            "deskripsi": "Sprite dengan sirup starwberry dengan sensasi segar dari lemon dan daun mint",
+            "harga": 21000,
+            "kategori": "minuman",
+            "gambar": "https://images.unsplash.com/photo-1543363950-c78545037afc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "nama": "Matcha Milkshake",
+            "deskripsi": "Matcha dicampur dengan susu dengan rasa legit di mulut",
+            "harga": 23000,
+            "kategori": "minuman",
+            "gambar": "https://images.unsplash.com/photo-1559603738-b406aaf7a435?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "nama": "Oreo Milkshake",
+            "deskripsi": "Potongan oreo dicampur dengan susu memberikan sensasi manis di mulut",
+            "harga": 23000,
+            "kategori": "minuman",
+            "gambar": "https://images.unsplash.com/photo-1597395530603-a3743dd229ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "nama": "Coca-Cola",
+            "deskripsi": "Coca-cola sangat cocok dengan makanan goreng",
+            "harga": 17000,
+            "kategori": "minuman",
+            "gambar": "https://images.unsplash.com/photo-1514178255089-603d3a35b24a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "nama": "Cofee",
+            "deskripsi": "Kopi dengan gula ataupun tanpa gula. Bisa pilih dengan es atau hangat",
+            "harga": 20000,
+            "kategori": "minuman",
+            "gambar": "https://images.unsplash.com/photo-1521302080334-4bebac2763a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+        }
+    ]
+}
